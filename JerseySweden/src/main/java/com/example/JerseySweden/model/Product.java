@@ -30,4 +30,8 @@ public class Product {
             this.stock = stock;
         }
 
+        // Töm konstruktor för deserialisering
+        public Product() {}
+    
+
 }
