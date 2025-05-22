@@ -2,8 +2,9 @@
   {
     "id": "35372365-aec6-48a8-9f49-52016051afc2",
     "name": "Atletico Madrid home kit 2020",
+    "description" : "A modern football jersey designed for both performance and everyday wear. Made from lightweight, breathable fabric that keeps you cool throughout the game. With a sleek fit and sporty look, it's perfect for training, match days, or as part of your casual outfit.",
     "imageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862546/Jersey-sweden/Barca/atmadrid-1-removebg-preview_mylwks.webp",
-    "price": 500,
+    "price": 499.90,
     "stock" :10,
     "category": "La Liga",
     "categoryImageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862544/Jersey-sweden/Logos/Spanish-La-Liga-Logo_knfb1q.png"
@@ -12,8 +13,9 @@
   {
     "id": "bd688c1f-7ecd-480e-b8aa-40e6f587a19e",
     "name": "Atletico Madrid Away kit classic",
+    "description" : "A modern football jersey designed for both performance and everyday wear. Made from lightweight, breathable fabric that keeps you cool throughout the game. With a sleek fit and sporty look, it's perfect for training, match days, or as part of your casual outfit.",
     "imageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862545/Jersey-sweden/Atletico/atletico-1-removebg-preview_qmsmmd.webp",
-    "price": 500,
+    "price": 499.90,
     "stock" : 10,
     "category": "La Liga",
     "categoryImageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862544/Jersey-sweden/Logos/Spanish-La-Liga-Logo_knfb1q.png"
@@ -21,8 +23,9 @@
   {
     "id": "9355611d-f4bd-4f98-b815-3f5bae785543",
     "name": "Barcelona home kit",
+    "description" : "A modern football jersey designed for both performance and everyday wear. Made from lightweight, breathable fabric that keeps you cool throughout the game. With a sleek fit and sporty look, it's perfect for training, match days, or as part of your casual outfit.",
     "imageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862550/Jersey-sweden/Barca/barca2023_nivpbb.webp",
-    "price": 500,
+    "price": 499.90,
     "stock" : 10,
     "category": "La Liga",
     "categoryImageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862544/Jersey-sweden/Logos/Spanish-La-Liga-Logo_knfb1q.png"
@@ -30,8 +33,9 @@
   {
     "id": "1d72cbb0-4576-40e2-ae22-c13dafce07ab",
     "name": "Barcelona home kit 2014",
+    "description" : "A modern football jersey designed for both performance and everyday wear. Made from lightweight, breathable fabric that keeps you cool throughout the game. With a sleek fit and sporty look, it's perfect for training, match days, or as part of your casual outfit.",
     "imageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862548/Jersey-sweden/Barca/barca_futvpk.webp",
-    "price": 500,
+    "price": 499.90,
     "stock" : 10,
     "category": "La Liga",
     "categoryImageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862544/Jersey-sweden/Logos/Spanish-La-Liga-Logo_knfb1q.png"
@@ -39,8 +43,9 @@
   {
     "id": "9691c3bc-2dbc-44df-a0d6-9b6a2d5bd859",
     "name": "Barcelona classic kit",
+    "description" : "A modern football jersey designed for both performance and everyday wear. Made from lightweight, breathable fabric that keeps you cool throughout the game. With a sleek fit and sporty look, it's perfect for training, match days, or as part of your casual outfit.",
     "imageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862550/Jersey-sweden/Barca/barcaclassis_dflbvy.webp",
-    "price": 500,
+    "price": 499.90,
     "stock" : 10,
     "category": "La Liga",
     "categoryImageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862544/Jersey-sweden/Logos/Spanish-La-Liga-Logo_knfb1q.png"
@@ -48,8 +53,9 @@
   {
     "id": "54fda641-5fa7-44f6-bea5-bb2d6c9552b3",
     "name": "Real Madrid fantasy kit",
+    "description" : "A modern football jersey designed for both performance and everyday wear. Made from lightweight, breathable fabric that keeps you cool throughout the game. With a sleek fit and sporty look, it's perfect for training, match days, or as part of your casual outfit.",
     "imageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862538/Jersey-sweden/Real%20Madrid/file_q3nx6w.png",
-    "price": 500,
+    "price": 499.90,
     "stock" : 10,
     "category": "La Liga",
     "categoryImageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862544/Jersey-sweden/Logos/Spanish-La-Liga-Logo_knfb1q.png"
@@ -57,8 +63,9 @@
   {
     "id": "c86729a3-9860-4df1-9c39-4d975f6cea2f",
     "name": "Real madrid homekit 2023",
+    "description" : "A modern football jersey designed for both performance and everyday wear. Made from lightweight, breathable fabric that keeps you cool throughout the game. With a sleek fit and sporty look, it's perfect for training, match days, or as part of your casual outfit.",
     "imageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862535/Jersey-sweden/Real%20Madrid/rmadrid-1-removebg-preview_1_pygm2q.webp",
-    "price": 500  ,
+    "price": 499.90  ,
     "stock" : 10,
     "category": "La Liga",
     "categoryImageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862544/Jersey-sweden/Logos/Spanish-La-Liga-Logo_knfb1q.png"
@@ -66,8 +73,9 @@
   {
     "id": "6550ae9e-b570-4b33-83bb-a13150653235",
     "name": "Real Madrid homekit classic",
+    "description" : "A modern football jersey designed for both performance and everyday wear. Made from lightweight, breathable fabric that keeps you cool throughout the game. With a sleek fit and sporty look, it's perfect for training, match days, or as part of your casual outfit.",
     "imageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862535/Jersey-sweden/Real%20Madrid/real_madrid_1-removebg-preview_3_wifteb.webp",
-    "price": 500 ,
+    "price": 499.90 ,
     "stock" : 10,
     "category": "La Liga",
     "categoryImageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862544/Jersey-sweden/Logos/Spanish-La-Liga-Logo_knfb1q.png"
@@ -75,8 +83,9 @@
   {
     "id": "ff22bcb2-3621-4a6d-a273-90ec8b51ed7a",
     "name": "Real Madrid kit 2017",
+    "description" : "A modern football jersey designed for both performance and everyday wear. Made from lightweight, breathable fabric that keeps you cool throughout the game. With a sleek fit and sporty look, it's perfect for training, match days, or as part of your casual outfit.",
     "imageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862533/Jersey-sweden/Real%20Madrid/realMadrid_ag3g0c.webp",
-    "price": 500,
+    "price": 499.90,
     "stock" : 10,
     "category": "La Liga",
     "categoryImageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862544/Jersey-sweden/Logos/Spanish-La-Liga-Logo_knfb1q.png"
@@ -84,8 +93,9 @@
   {
     "id": "407ab06b-5e39-4714-b18e-f6347f3464ef",
     "name": "Real Madrid away kit 2023",
+    "description" : "A modern football jersey designed for both performance and everyday wear. Made from lightweight, breathable fabric that keeps you cool throughout the game. With a sleek fit and sporty look, it's perfect for training, match days, or as part of your casual outfit.",
     "imageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862532/Jersey-sweden/Real%20Madrid/madrid002_akjp3k.webp",
-    "price": 500,
+    "price": 499.90,
     "stock" : 10,
     "category": "La Liga",
     "categoryImageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862544/Jersey-sweden/Logos/Spanish-La-Liga-Logo_knfb1q.png"
@@ -93,8 +103,9 @@
   {
     "id": "ba480ea3-6075-4446-8184-58b292067f3c",
     "name": "Arsenal home kit 2023",
+    "description" : "A modern football jersey designed for both performance and everyday wear. Made from lightweight, breathable fabric that keeps you cool throughout the game. With a sleek fit and sporty look, it's perfect for training, match days, or as part of your casual outfit.",
     "imageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862475/Jersey-sweden/Arsenal/HZ2085_1_APPAREL_Photography_FrontView_transparent_500x_rzmxlc.webp",
-    "price": 500,
+    "price": 499.90,
     "stock" : 10,
     "category": "Primier League",
     "categoryImageUrl" : "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862543/Jersey-sweden/Logos/Premier-League-Logo_rty5q3.png"
@@ -102,8 +113,9 @@
   {
     "id": "2f4a4cab-0f98-4ebe-a261-8e626eedba20",
     "name": "Arsenal away kit 2023",
+    "description" : "A modern football jersey designed for both performance and everyday wear. Made from lightweight, breathable fabric that keeps you cool throughout the game. With a sleek fit and sporty look, it's perfect for training, match days, or as part of your casual outfit.",
     "imageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862475/Jersey-sweden/Arsenal/arsenal_23_24_keeper_kit__6_-removebg-preview_owgdmd.png",
-    "price": 500,
+    "price": 499.90,
     "stock" : 10,
     "category": "Primier League",
     "categoryImageUrl" :  "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862543/Jersey-sweden/Logos/Premier-League-Logo_rty5q3.png"
@@ -111,8 +123,9 @@
   {
     "id": "3aaa5936-84c7-4c5e-9d78-271647de9fa8",
     "name": "Arsenal third kit 2023",
+    "description" : "A modern football jersey designed for both performance and everyday wear. Made from lightweight, breathable fabric that keeps you cool throughout the game. With a sleek fit and sporty look, it's perfect for training, match days, or as part of your casual outfit.",
     "imageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862474/Jersey-sweden/Arsenal/5f9676b20779874841404af02e03b045_csdvuc.png",
-    "price": 500,
+    "price": 499.90,
     "stock" : 10,
     "category": "Primier League",
     "categoryImageUrl" :  "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862543/Jersey-sweden/Logos/Premier-League-Logo_rty5q3.png"
@@ -120,8 +133,9 @@
   {
     "id": "c1bf8dbf-0a7e-4e02-b2b2-f6b8fe174db1",
     "name": "Arsenal fourth kit 2023",
+    "description" : "A modern football jersey designed for both performance and everyday wear. Made from lightweight, breathable fabric that keeps you cool throughout the game. With a sleek fit and sporty look, it's perfect for training, match days, or as part of your casual outfit.",
     "imageUrl":"https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862472/Jersey-sweden/Arsenal/-medium_x3mppa.webp",
-    "price": 500,
+    "price": 499.90,
     "stock" : 10,
     "category": "Primier League",
     "categoryImageUrl" :  "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862543/Jersey-sweden/Logos/Premier-League-Logo_rty5q3.png"
@@ -129,8 +143,9 @@
   {
     "id": "e021f83c-ea9e-4c86-b10a-d5cf1c514711",
     "name": "Liverpool fantasy kit",
+    "description" : "A modern football jersey designed for both performance and everyday wear. Made from lightweight, breathable fabric that keeps you cool throughout the game. With a sleek fit and sporty look, it's perfect for training, match days, or as part of your casual outfit.",
     "imageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862503/Jersey-sweden/Liverpool/Liverpool-Away-Kit-2022-23-season-LEAKED-scaled-removebg-preview_w1gbm7.webp",
-    "price": 500,
+    "price": 499.90,
     "stock" : 10,
     "category": "Primier League",
     "categoryImageUrl" :  "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862543/Jersey-sweden/Logos/Premier-League-Logo_rty5q3.png"
@@ -138,8 +153,9 @@
   {
     "id": "97852fba-d026-47b6-861d-f132a373e127",
     "name": "Liverpool away kit 2023",
+    "description" : "A modern football jersey designed for both performance and everyday wear. Made from lightweight, breathable fabric that keeps you cool throughout the game. With a sleek fit and sporty look, it's perfect for training, match days, or as part of your casual outfit.",
     "imageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862502/Jersey-sweden/Liverpool/liverpool-2021-22-nike-away-kit-1-removebg-preview_jtk6vh.webp",
-    "price": 500,
+    "price": 499.90,
     "stock" : 10,
     "category": "Primier League",
     "categoryImageUrl" :  "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862543/Jersey-sweden/Logos/Premier-League-Logo_rty5q3.png"
@@ -147,8 +163,9 @@
   {
     "id": "8c359842-37b6-4e9b-abe7-06817cc4f4cd",
     "name": "Liverpool away kit",
+    "description" : "A modern football jersey designed for both performance and everyday wear. Made from lightweight, breathable fabric that keeps you cool throughout the game. With a sleek fit and sporty look, it's perfect for training, match days, or as part of your casual outfit.",
     "imageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862501/Jersey-sweden/Liverpool/cmV2aWV3ICgyKS52MS5wbmc_--medium_nx2kls.webp",
-    "price": 500,
+    "price": 499.90,
     "stock" : 10,
     "category": "Primier League",
     "categoryImageUrl" :  "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862543/Jersey-sweden/Logos/Premier-League-Logo_rty5q3.png"
@@ -156,8 +173,9 @@
   {
     "id": "76b01da8-58b9-4517-bb8e-6f59b314edb0",
     "name": "Liverpool away kit classic",
+    "description" : "A modern football jersey designed for both performance and everyday wear. Made from lightweight, breathable fabric that keeps you cool throughout the game. With a sleek fit and sporty look, it's perfect for training, match days, or as part of your casual outfit.",
     "imageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862501/Jersey-sweden/Liverpool/9496_Liverpool_away4-removebg-preview_hrenwt.png",
-    "price": 500,
+    "price": 499.90,
     "stock" : 10,
     "category": "Primier League",
     "categoryImageUrl" :  "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862543/Jersey-sweden/Logos/Premier-League-Logo_rty5q3.png"
@@ -165,8 +183,9 @@
   {
     "id": "fe8195c4-2975-4f63-880d-e61a77ca4859",
     "name": "Liverpool classic kit",
+    "description" : "A modern football jersey designed for both performance and everyday wear. Made from lightweight, breathable fabric that keeps you cool throughout the game. With a sleek fit and sporty look, it's perfect for training, match days, or as part of your casual outfit.",
     "imageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862499/Jersey-sweden/Liverpool/13b983_3fc62ed14f514d739510c7871be5a8b3_mv2_cyr0qz.webp",
-    "price": 500,
+    "price": 499.90,
     "stock" : 10,
     "category": "Primier League",
     "categoryImageUrl" :  "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862543/Jersey-sweden/Logos/Premier-League-Logo_rty5q3.png"
@@ -174,8 +193,9 @@
   {
     "id":"c0d0629f-7425-473d-b6da-99d58db34964",
     "name": "Manchester City homekit",
+    "description" : "A modern football jersey designed for both performance and everyday wear. Made from lightweight, breathable fabric that keeps you cool throughout the game. With a sleek fit and sporty look, it's perfect for training, match days, or as part of your casual outfit.",
     "imageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862510/Jersey-sweden/manCity/Untitled_design__67_-removebg-preview_600x_tw0ssh.webp",
-    "price": 500,
+    "price": 499.90,
     "stock" : 10,
     "category": "Primier League",
     "categoryImageUrl" :  "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862543/Jersey-sweden/Logos/Premier-League-Logo_rty5q3.png"
@@ -183,8 +203,9 @@
   {
     "id": "840612f2-3226-4796-83f3-d75836386232",
     "name": "Manchester City homekit classic",
+    "description" : "A modern football jersey designed for both performance and everyday wear. Made from lightweight, breathable fabric that keeps you cool throughout the game. With a sleek fit and sporty look, it's perfect for training, match days, or as part of your casual outfit.",
     "imageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862509/Jersey-sweden/manCity/mancity-1-removebg-preview_nhly8j.webp",
-    "price": 500,
+    "price": 499.90,
     "stock" : 10,
     "category": "Primier League",
     "categoryImageUrl" :  "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862543/Jersey-sweden/Logos/Premier-League-Logo_rty5q3.png"
@@ -192,8 +213,9 @@
   {
     "id": "084a8b12-b90d-4929-ab61-2ea126adb5c7",
     "name": "Manchester City homekit",
+    "description" : "A modern football jersey designed for both performance and everyday wear. Made from lightweight, breathable fabric that keeps you cool throughout the game. With a sleek fit and sporty look, it's perfect for training, match days, or as part of your casual outfit.",
     "imageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862506/Jersey-sweden/manCity/1653539889294488752_zul8cm.png",
-    "price": 500,
+    "price": 499.90,
     "stock" : 10,
     "category": "Primier League",
     "categoryImageUrl" :  "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862543/Jersey-sweden/Logos/Premier-League-Logo_rty5q3.png"
@@ -201,8 +223,9 @@
   {
     "id": "5a3a0399-ad47-4e7f-8f0c-b9c78c08e9bb",
     "name": "Manchester City away kit",
+    "description" : "A modern football jersey designed for both performance and everyday wear. Made from lightweight, breathable fabric that keeps you cool throughout the game. With a sleek fit and sporty look, it's perfect for training, match days, or as part of your casual outfit.",
     "imageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862505/Jersey-sweden/manCity/110626_S_kki7jk.png",
-    "price": 500,
+    "price": 499.90,
     "stock" : 10,
     "category": "Primier League",
     "categoryImageUrl" :  "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862543/Jersey-sweden/Logos/Premier-League-Logo_rty5q3.png"
@@ -210,8 +233,9 @@
   {
     "id": "4efc88fa-0166-498a-9f43-99118c96b32b",
     "name": "Manchester City away kit",
+    "description" : "A modern football jersey designed for both performance and everyday wear. Made from lightweight, breathable fabric that keeps you cool throughout the game. With a sleek fit and sporty look, it's perfect for training, match days, or as part of your casual outfit.",
     "imageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862504/Jersey-sweden/manCity/0216087_manchester-city-2324-away-jersey_500_nk8e9k.png",
-    "price": 500,
+    "price": 499.90,
     "stock" : 10,
     "category": "Primier League",
     "categoryImageUrl" :  "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862543/Jersey-sweden/Logos/Premier-League-Logo_rty5q3.png"
@@ -219,8 +243,9 @@
   {
     "id": "76c92ac2-e4a8-4ecc-ac8b-26ac99c7923c",
     "name": "Manchester United homekit",
+    "description" : "A modern football jersey designed for both performance and everyday wear. Made from lightweight, breathable fabric that keeps you cool throughout the game. With a sleek fit and sporty look, it's perfect for training, match days, or as part of your casual outfit.",
     "imageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862508/Jersey-sweden/manCity/LXByZXZpZXcudjEuY3JvcHBlZC5wbmc_--medium_vsoh21.webp",
-    "price": 500,
+    "price": 499.90,
     "stock" : 10,
     "category": "Primier League",
     "categoryImageUrl" :  "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862543/Jersey-sweden/Logos/Premier-League-Logo_rty5q3.png"
@@ -228,8 +253,9 @@
   {
     "id": "5753e5eb-53f5-43d0-9f4e-74b9d0951dd0",
     "name": "Manchester United homekit classic",
+    "description" : "A modern football jersey designed for both performance and everyday wear. Made from lightweight, breathable fabric that keeps you cool throughout the game. With a sleek fit and sporty look, it's perfect for training, match days, or as part of your casual outfit.",
     "imageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862516/Jersey-sweden/ManUnited/MANU_0607_HOME-removebg-preview_fagmyy.webp",
-    "price": 500,
+    "price": 499.90,
     "stock" : 10,
     "category": "Primier League",
     "categoryImageUrl" :  "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862543/Jersey-sweden/Logos/Premier-League-Logo_rty5q3.png"
@@ -237,8 +263,9 @@
   {
     "id": "7ffbd57d-95dd-4ada-a208-add7bb566d63",
     "name": "Manchester United away kit",
+    "description" : "A modern football jersey designed for both performance and everyday wear. Made from lightweight, breathable fabric that keeps you cool throughout the game. With a sleek fit and sporty look, it's perfect for training, match days, or as part of your casual outfit.",
     "imageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862515/Jersey-sweden/ManUnited/manuaway1_cagnet.png",
-    "price": 500,
+    "price": 499.90,
     "stock" : 10,
     "category": "Primier League",
     "categoryImageUrl" :  "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862543/Jersey-sweden/Logos/Premier-League-Logo_rty5q3.png"
@@ -246,8 +273,9 @@
   {
     "id": "2e7c4fe2-8889-4101-906a-524b4b49a2c2",
     "name": "Manchester United home kit classic",
+    "description" : "A modern football jersey designed for both performance and everyday wear. Made from lightweight, breathable fabric that keeps you cool throughout the game. With a sleek fit and sporty look, it's perfect for training, match days, or as part of your casual outfit.",
     "imageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862514/Jersey-sweden/ManUnited/image_39c4c744-9859-4ef8-b023-57fcfc6d33ff_llnld4.webp",
-    "price": 500,
+    "price": 499.90,
     "stock" : 10,
     "category": "Primier League",
     "categoryImageUrl" :  "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862543/Jersey-sweden/Logos/Premier-League-Logo_rty5q3.png"
@@ -255,8 +283,9 @@
   {
     "id": "3ab75c08-e21c-4bf2-ae5d-6ac8644b7889",
     "name": "Manchester United away kit classic",
+    "description" : "A modern football jersey designed for both performance and everyday wear. Made from lightweight, breathable fabric that keeps you cool throughout the game. With a sleek fit and sporty look, it's perfect for training, match days, or as part of your casual outfit.",
     "imageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862513/Jersey-sweden/ManUnited/07-08Away-removebg-preview_gn9igg.webp",
-    "price": 500,
+    "price": 499.90,
     "stock" : 10,
     "category": "Primier League",
     "categoryImageUrl" :  "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862543/Jersey-sweden/Logos/Premier-League-Logo_rty5q3.png"
@@ -265,8 +294,9 @@
   {
     "id": "28db176b-fd66-4a5d-aa86-b2509adbf72e",
     "name": "Chelsea away kit",
+    "description" : "A modern football jersey designed for both performance and everyday wear. Made from lightweight, breathable fabric that keeps you cool throughout the game. With a sleek fit and sporty look, it's perfect for training, match days, or as part of your casual outfit.",
     "imageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862554/Jersey-sweden/Chelsea/unnamed_pyfnkz.png",
-    "price": 500,
+    "price": 499.90,
     "stock" : 10,
     "category": "Primier League",
     "categoryImageUrl" :  "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862543/Jersey-sweden/Logos/Premier-League-Logo_rty5q3.png"
@@ -274,8 +304,9 @@
   {
     "id": "e290f837-f7be-4eb1-8fa6-f2809cab731c",
     "name": "Chelsea away kit",
+    "description" : "A modern football jersey designed for both performance and everyday wear. Made from lightweight, breathable fabric that keeps you cool throughout the game. With a sleek fit and sporty look, it's perfect for training, match days, or as part of your casual outfit.",
     "imageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862553/Jersey-sweden/Chelsea/ucG5n--medium_zdkw3w.webp",
-    "price": 500,
+    "price": 499.90,
     "stock" : 10,
     "category": "Primier League",
     "categoryImageUrl" :  "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862543/Jersey-sweden/Logos/Premier-League-Logo_rty5q3.png"
@@ -283,8 +314,9 @@
   {
     "id": "1c9aa86d-2438-4e06-92be-23e4cceafe0b",
     "name": "Chelsea away kit",
+    "description" : "A modern football jersey designed for both performance and everyday wear. Made from lightweight, breathable fabric that keeps you cool throughout the game. With a sleek fit and sporty look, it's perfect for training, match days, or as part of your casual outfit.",
     "imageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862551/Jersey-sweden/Chelsea/1712543446533128419_qd2gyh.png",
-    "price": 500,
+    "price": 499.90,
     "stock" : 10,
     "category": "Primier League",
     "categoryImageUrl" :  "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862543/Jersey-sweden/Logos/Premier-League-Logo_rty5q3.png"
@@ -292,8 +324,9 @@
   {
     "id": "48ecf638-15c1-4245-a61c-e64bb3ac8e56",
     "name": "Chelsea home kit classic",
+    "description" : "A modern football jersey designed for both performance and everyday wear. Made from lightweight, breathable fabric that keeps you cool throughout the game. With a sleek fit and sporty look, it's perfect for training, match days, or as part of your casual outfit.",
     "imageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862551/Jersey-sweden/Chelsea/1712543446533128419_qd2gyh.png",
-    "price": 500,
+    "price": 499.90,
     "stock" : 10,
     "category": "Primier League",
     "categoryImageUrl" :  "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862543/Jersey-sweden/Logos/Premier-League-Logo_rty5q3.png"
@@ -301,8 +334,9 @@
   {
     "id": "fe1e2e90-a53b-4697-a545-3416092f3ca7",
     "name": "AC Milan away kit",
+    "description" : "A modern football jersey designed for both performance and everyday wear. Made from lightweight, breathable fabric that keeps you cool throughout the game. With a sleek fit and sporty look, it's perfect for training, match days, or as part of your casual outfit.",
     "imageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862464/Jersey-sweden/ACmilan/41604654036ab532bf6_adavpq.png",
-    "price": 500,
+    "price": 499.90,
     "stock": 10,
     "category": "Serie A",
     "categoryImageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862541/Jersey-sweden/Logos/Italian-Serie-A-Logo_bc7xqt.png"
@@ -310,8 +344,9 @@
   {
     "id": "684fdca9-bddb-47f5-a450-fb9634083c04",
     "name": "AC Milan home kit classic",
+    "description" : "A modern football jersey designed for both performance and everyday wear. Made from lightweight, breathable fabric that keeps you cool throughout the game. With a sleek fit and sporty look, it's perfect for training, match days, or as part of your casual outfit.",
     "imageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862464/Jersey-sweden/ACmilan/image_7193918c-e12e-417e-a886-_uchwon.webp",
-    "price": 500,
+    "price": 499.90,
     "stock":  10,
     "category": "Serie A",
     "categoryImageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862541/Jersey-sweden/Logos/Italian-Serie-A-Logo_bc7xqt.png"
@@ -319,8 +354,9 @@
   {
     "id": "1b50c969-9a66-46fd-b8b1-e2c9b7b42b63",
     "name": "AC Milan home kit",
+    "description" : "A modern football jersey designed for both performance and everyday wear. Made from lightweight, breathable fabric that keeps you cool throughout the game. With a sleek fit and sporty look, it's perfect for training, match days, or as part of your casual outfit.",
     "imageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862463/Jersey-sweden/ACmilan/41605602355a263e428_qj8sbk.png",
-    "price": 500,
+    "price": 499.90,
     "stock":  10,
     "category": "Serie A",
     "categoryImageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862541/Jersey-sweden/Logos/Italian-Serie-A-Logo_bc7xqt.png"
@@ -328,8 +364,9 @@
   {
     "id": "6c37945b-1741-47b5-ae53-52c862803aa7",
     "name": "AC Milan home kit classic",
+    "description" : "A modern football jersey designed for both performance and everyday wear. Made from lightweight, breathable fabric that keeps you cool throughout the game. With a sleek fit and sporty look, it's perfect for training, match days, or as part of your casual outfit.",
     "imageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862462/Jersey-sweden/ACmilan/acmilan1-removebg-preview_x8srey.webp",
-    "price": 500,
+    "price": 499.90,
     "stock":  10,
     "category": "Serie A",
     "categoryImageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862541/Jersey-sweden/Logos/Italian-Serie-A-Logo_bc7xqt.png"
@@ -337,8 +374,9 @@
   {
     "id": "6b250349-8dec-4e4d-b96e-45d4334b5760",
     "name": "AC Milan fantasy kit",
+    "description" : "A modern football jersey designed for both performance and everyday wear. Made from lightweight, breathable fabric that keeps you cool throughout the game. With a sleek fit and sporty look, it's perfect for training, match days, or as part of your casual outfit.",
     "imageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862462/Jersey-sweden/ACmilan/ac-milan1-removebg_euojja.webp",
-    "price": 500,
+    "price": 499.90,
     "stock":  10,
     "category": "Serie A",
     "categoryImageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862541/Jersey-sweden/Logos/Italian-Serie-A-Logo_bc7xqt.png"
@@ -346,8 +384,9 @@
   {
     "id": "0bb33c0a-0bfb-4c89-b2af-1960cf6733ba",
     "name": "Inter Milan home Kit classic",
+    "description" : "A modern football jersey designed for both performance and everyday wear. Made from lightweight, breathable fabric that keeps you cool throughout the game. With a sleek fit and sporty look, it's perfect for training, match days, or as part of your casual outfit.",
     "imageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862559/Jersey-sweden/InterMilan/inter200809-removebg-_eygp5g.webp",
-    "price": 500,
+    "price": 499.90,
     "stock":  10,
     "category": "Serie A",
     "categoryImageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862541/Jersey-sweden/Logos/Italian-Serie-A-Logo_bc7xqt.png"
@@ -355,8 +394,9 @@
   {
     "id": "545aebe1-ba51-4589-8598-129798e4f671",
     "name": "Inter Milan away Kit classic",
+    "description" : "A modern football jersey designed for both performance and everyday wear. Made from lightweight, breathable fabric that keeps you cool throughout the game. With a sleek fit and sporty look, it's perfect for training, match days, or as part of your casual outfit.",
     "imageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862558/Jersey-sweden/InterMilan/image_0d7b78da-d12a-4591-8682-87549f4fe879_rfn7gs.webp",
-    "price": 500,
+    "price": 499.90,
     "stock":  10,
     "category": "Serie A",
     "categoryImageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862541/Jersey-sweden/Logos/Italian-Serie-A-Logo_bc7xqt.png"
@@ -364,8 +404,9 @@
   {
     "id": "b6fae74d-e55c-4808-b80b-7fc05dfe73ec",
     "name": "Inter Milan away kit fantasy",
+    "description" : "A modern football jersey designed for both performance and everyday wear. Made from lightweight, breathable fabric that keeps you cool throughout the game. With a sleek fit and sporty look, it's perfect for training, match days, or as part of your casual outfit.",
     "imageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862555/Jersey-sweden/InterMilan/1630030965293351796_uaejo2.png",
-    "price": 500,
+    "price": 499.90,
     "stock":  10,
     "category": "Serie A",
     "categoryImageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862541/Jersey-sweden/Logos/Italian-Serie-A-Logo_bc7xqt.png"
@@ -373,8 +414,9 @@
   {
     "id": "2243dfba-b287-45c5-a6ba-07e2395f168c",
     "name": "Juventus home kit",
+    "description" : "A modern football jersey designed for both performance and everyday wear. Made from lightweight, breathable fabric that keeps you cool throughout the game. With a sleek fit and sporty look, it's perfect for training, match days, or as part of your casual outfit.",
     "imageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862585/Jersey-sweden/Juventus/0187641_juventus-2324-home-jersey_500_e0dj0u.png",
-    "price": 500,
+    "price": 499.90,
     "stock":  10,
     "category": "Serie A",
     "categoryImageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862541/Jersey-sweden/Logos/Italian-Serie-A-Logo_bc7xqt.png"
@@ -382,8 +424,9 @@
   {
     "id": "14295ea6-7fc1-48b9-a201-e0343c54dccb",
     "name": "Juventus away kit",
+    "description" : "A modern football jersey designed for both performance and everyday wear. Made from lightweight, breathable fabric that keeps you cool throughout the game. With a sleek fit and sporty look, it's perfect for training, match days, or as part of your casual outfit.",
     "imageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862589/Jersey-sweden/Juventus/ViZy1wcmV2aWV3ICgxKS52MS5wbmc_--medium_nnno2f.webp",
-    "price": 500,
+    "price": 499.90,
     "stock":  10,
     "category": "Serie A",
     "categoryImageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862541/Jersey-sweden/Logos/Italian-Serie-A-Logo_bc7xqt.png"
@@ -391,8 +434,9 @@
   {
     "id": "409415f9-5a02-49b6-83e7-82c8418eb769",
     "name": "Juventus home kit",
+    "description" : "A modern football jersey designed for both performance and everyday wear. Made from lightweight, breathable fabric that keeps you cool throughout the game. With a sleek fit and sporty look, it's perfect for training, match days, or as part of your casual outfit.",
     "imageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862587/Jersey-sweden/Juventus/HR8246_1_APPAREL_Photography_FrontView_transparent_lpuwi4.webp",
-    "price": 500,
+    "price": 499.90,
     "stock":  10,
     "category": "Serie A",
     "categoryImageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862541/Jersey-sweden/Logos/Italian-Serie-A-Logo_bc7xqt.png"
@@ -400,8 +444,9 @@
   {
     "id": "99743d50-d7b1-45b6-a76e-465b42c5afea",
     "name": "Juventus home kit",
+    "description" : "A modern football jersey designed for both performance and everyday wear. Made from lightweight, breathable fabric that keeps you cool throughout the game. With a sleek fit and sporty look, it's perfect for training, match days, or as part of your casual outfit.",
     "imageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862587/Jersey-sweden/Juventus/4157475959057678039_bijyl0.png",
-    "price": 500,
+    "price": 499.90,
     "stock":  10,
     "category": "Serie A",
     "categoryImageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862541/Jersey-sweden/Logos/Italian-Serie-A-Logo_bc7xqt.png"
@@ -410,8 +455,9 @@
   {
     "id": "d4f6fae8-6a25-4f67-99ff-dc3ae49d75d9",
     "name": "Napoli home kit classic",
+    "description" : "A modern football jersey designed for both performance and everyday wear. Made from lightweight, breathable fabric that keeps you cool throughout the game. With a sleek fit and sporty look, it's perfect for training, match days, or as part of your casual outfit.",
     "imageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862517/Jersey-sweden/Napoli/napoli-01-removebg-preview_1_cjbnoe.webp",
-    "price": 500,
+    "price": 499.90,
     "stock":  10,
     "category": "Serie A",
     "categoryImageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862541/Jersey-sweden/Logos/Italian-Serie-A-Logo_bc7xqt.png"
@@ -419,8 +465,9 @@
   {
     "id": "e1a901bf-b469-4b48-8681-5bd605e0c440",
     "name": "Napoli away kit",
+    "description" : "A modern football jersey designed for both performance and everyday wear. Made from lightweight, breathable fabric that keeps you cool throughout the game. With a sleek fit and sporty look, it's perfect for training, match days, or as part of your casual outfit.",
     "imageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862519/Jersey-sweden/Napoli/sscn-1-removebg-_wi4mce.webp",
-    "price": 500,
+    "price": 499.90,
     "stock":  10,
     "category": "Serie A",
     "categoryImageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862541/Jersey-sweden/Logos/Italian-Serie-A-Logo_bc7xqt.png"
@@ -428,8 +475,9 @@
   {
     "id": "c213f2b1-3327-4495-a461-092bd0a5fdd6",
     "name": "Bayern munich homekit",
+    "description" : "A modern football jersey designed for both performance and everyday wear. Made from lightweight, breathable fabric that keeps you cool throughout the game. With a sleek fit and sporty look, it's perfect for training, match days, or as part of your casual outfit.",
     "imageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862531/Jersey-sweden/Other/IB1480_1_APPAREL_Photography_FrontView_transparent_koebe4.webp",
-    "price": 500,
+    "price": 499.90,
     "stock": 10,
     "category": "Other Leagues",
     "categoryImageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1716726745/Jersey-sweden/Logos/obikfulmck6ekjkrfjvk.png"
@@ -437,8 +485,9 @@
   {
     "id": "5dd62cce-ecf4-4fba-a324-82726b2ad0f9",
     "name": "Bayern munich homekit",
+    "description" : "A modern football jersey designed for both performance and everyday wear. Made from lightweight, breathable fabric that keeps you cool throughout the game. With a sleek fit and sporty look, it's perfect for training, match days, or as part of your casual outfit.",
     "imageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862523/Jersey-sweden/Other/01613702759de5e24cd_e3hneb.png",
-    "price": 500,
+    "price": 499.90,
     "stock":  10,
     "category": "Other Leagues",
     "categoryImageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1716726745/Jersey-sweden/Logos/obikfulmck6ekjkrfjvk.png"
@@ -447,8 +496,9 @@
   {
     "id": "f67008d9-872e-4b85-86a2-d32b4795ee2f",
     "name": "Dortdmund home kit",
+    "description" : "A modern football jersey designed for both performance and everyday wear. Made from lightweight, breathable fabric that keeps you cool throughout the game. With a sleek fit and sporty look, it's perfect for training, match days, or as part of your casual outfit.",
     "imageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862522/Jersey-sweden/Other/01600744029fdd7ccde_ey3yyt.png",
-    "price": 500,
+    "price": 499.90,
     "stock":  10,
     "category": "Other Leagues",
     "categoryImageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1716726745/Jersey-sweden/Logos/obikfulmck6ekjkrfjvk.png"
@@ -456,8 +506,9 @@
   {
     "id": "a8a6d375-0293-46b7-80c2-bb7f32738ea9",
     "name": "Dortmund away kit",
+    "description" : "A modern football jersey designed for both performance and everyday wear. Made from lightweight, breathable fabric that keeps you cool throughout the game. With a sleek fit and sporty look, it's perfect for training, match days, or as part of your casual outfit.",
     "imageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862526/Jersey-sweden/Other/016052583029f67d4db_kl9auw.png",
-    "price": 500,
+    "price": 499.90,
     "stock":  10,
     "category": "Other Leagues",
     "categoryImageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1716726745/Jersey-sweden/Logos/obikfulmck6ekjkrfjvk.png"
@@ -465,8 +516,9 @@
   {
     "id": "7aed8dbc-9603-40a1-bf09-976f5c8fd6e8",
     "name": "Dortmund classic homekit",
+    "description" : "A modern football jersey designed for both performance and everyday wear. Made from lightweight, breathable fabric that keeps you cool throughout the game. With a sleek fit and sporty look, it's perfect for training, match days, or as part of your casual outfit.",
     "imageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862529/Jersey-sweden/Other/dort-1-removebg-preview_yd4vnu.webp",
-    "price": 500,
+    "price": 499.90,
     "stock":  10,
     "category": "Other Leagues",
     "categoryImageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1716726745/Jersey-sweden/Logos/obikfulmck6ekjkrfjvk.png"
@@ -475,8 +527,9 @@
   {
     "id": "35a4c56e-7497-4f0d-b30d-5597048d4fe4",
     "name": "Ajax away kit",
+    "description" : "A modern football jersey designed for both performance and everyday wear. Made from lightweight, breathable fabric that keeps you cool throughout the game. With a sleek fit and sporty look, it's perfect for training, match days, or as part of your casual outfit.",
     "imageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862536/Jersey-sweden/Other/1654757952327916158_fuwrfn.png",
-    "price": 500,
+    "price": 499.90,
     "stock":  10,
     "category": "Other Leagues",
     "categoryImageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1716726745/Jersey-sweden/Logos/obikfulmck6ekjkrfjvk.png"
@@ -484,8 +537,9 @@
   {
     "id": "9697086f-cc59-4325-a5a5-62f6295c248d",
     "name": "Ajax home kit",
+    "description" : "A modern football jersey designed for both performance and everyday wear. Made from lightweight, breathable fabric that keeps you cool throughout the game. With a sleek fit and sporty look, it's perfect for training, match days, or as part of your casual outfit.",
     "imageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862524/Jersey-sweden/Other/01666684660627f5c27_shwdqk.png",
-    "price": 500,
+    "price": 499.90,
     "stock":  10,
     "category": "Other Leagues",
     "categoryImageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1716726745/Jersey-sweden/Logos/obikfulmck6ekjkrfjvk.png"
@@ -493,8 +547,9 @@
   {
     "id": "58907099-df51-48b9-ab48-5219f305f88c",
     "name": "Ajax away kit",
+    "description" : "A modern football jersey designed for both performance and everyday wear. Made from lightweight, breathable fabric that keeps you cool throughout the game. With a sleek fit and sporty look, it's perfect for training, match days, or as part of your casual outfit.",
     "imageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862525/Jersey-sweden/Other/1630288355007571699_nrwnqu.png",
-    "price": 500,
+    "price": 499.90,
     "stock":  10,
     "category": "Other Leagues",
     "categoryImageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1716726745/Jersey-sweden/Logos/obikfulmck6ekjkrfjvk.png"
@@ -502,8 +557,9 @@
   {
     "id": "1d05dd0c-5df9-455c-b358-3e25d0cf39e2",
     "name": "Ajax classic home kit",
+    "description" : "A modern football jersey designed for both performance and everyday wear. Made from lightweight, breathable fabric that keeps you cool throughout the game. With a sleek fit and sporty look, it's perfect for training, match days, or as part of your casual outfit.",
     "imageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862527/Jersey-sweden/Other/ajax-01-removebg_w5ncqa.webp",
-    "price": 500,
+    "price": 499.90,
     "stock":  10,
     "category": "Other Leagues",
     "categoryImageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1716726745/Jersey-sweden/Logos/obikfulmck6ekjkrfjvk.png"
@@ -512,8 +568,9 @@
   {
     "id": "3357dbdb-88d6-49c7-b7b6-15ca1c15ccc6",
     "name": "Bayern Leverkusen fantasy kit",
+    "description" : "A modern football jersey designed for both performance and everyday wear. Made from lightweight, breathable fabric that keeps you cool throughout the game. With a sleek fit and sporty look, it's perfect for training, match days, or as part of your casual outfit.",
     "imageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862537/Jersey-sweden/Other/1715669255273924609_hbuqqq.png",
-    "price": 500,
+    "price": 499.90,
     "stock":  10,
     "category": "Other Leagues",
     "categoryImageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1716726745/Jersey-sweden/Logos/obikfulmck6ekjkrfjvk.png"
@@ -521,8 +578,9 @@
   {
     "id": "de16522f-343e-486d-95a7-5c87d263cd67",
     "name": "Marsillie home kit",
+    "description" : "A modern football jersey designed for both performance and everyday wear. Made from lightweight, breathable fabric that keeps you cool throughout the game. With a sleek fit and sporty look, it's perfect for training, match days, or as part of your casual outfit.",
     "imageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862497/Jersey-sweden/Ligue1/visuels_flocage_pastilles_2023_domicile_replica_homme_xsbqsk.png",
-    "price": 500,
+    "price": 499.90,
     "stock":  10,
     "category": "Other Leagues",
     "categoryImageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1716726745/Jersey-sweden/Logos/obikfulmck6ekjkrfjvk.png"
@@ -530,8 +588,9 @@
   {
     "id": "e27b39e2-c132-44f2-81c8-bcc0540eabd4",
     "name": "Marsillie away kit",
+    "description" : "A modern football jersey designed for both performance and everyday wear. Made from lightweight, breathable fabric that keeps you cool throughout the game. With a sleek fit and sporty look, it's perfect for training, match days, or as part of your casual outfit.",
     "imageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862493/Jersey-sweden/Ligue1/ext_rieur_replica_homme_ityrwk.png",
-    "price": 500,
+    "price": 499.90,
     "stock":  10,
     "category": "Other Leagues",
     "categoryImageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1716726745/Jersey-sweden/Logos/obikfulmck6ekjkrfjvk.png"
@@ -540,8 +599,9 @@
   {
     "id": "3413b78f-e6e7-45d4-bcae-422b1c184bfa",
     "name": "PSG home kit",
+    "description" : "A modern football jersey designed for both performance and everyday wear. Made from lightweight, breathable fabric that keeps you cool throughout the game. With a sleek fit and sporty look, it's perfect for training, match days, or as part of your casual outfit.",
     "imageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862494/Jersey-sweden/Ligue1/file_zn3wnt.png",
-    "price": 500,
+    "price": 499.90,
     "stock":  10,
     "category": "Other Leagues",
     "categoryImageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1716726745/Jersey-sweden/Logos/obikfulmck6ekjkrfjvk.png"
@@ -549,8 +609,9 @@
   {
     "id": "765e87bf-e1aa-46f5-9a1c-e3010f59ce81",
     "name": "Psg away kit",
+    "description" : "A modern football jersey designed for both performance and everyday wear. Made from lightweight, breathable fabric that keeps you cool throughout the game. With a sleek fit and sporty look, it's perfect for training, match days, or as part of your casual outfit.",
     "imageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862496/Jersey-sweden/Ligue1/psg1-removebg_yzkdvz.webp",
-    "price": 500,
+    "price": 499.90,
     "stock":  10,
     "category": "Other Leagues",
     "categoryImageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1716726745/Jersey-sweden/Logos/obikfulmck6ekjkrfjvk.png"
@@ -558,8 +619,9 @@
   {
     "id": "9b81669c-e2da-4b46-9526-443c78e42329",
     "name": "Psg jordan kit",
+    "description" : "A modern football jersey designed for both performance and everyday wear. Made from lightweight, breathable fabric that keeps you cool throughout the game. With a sleek fit and sporty look, it's perfect for training, match days, or as part of your casual outfit.",
     "imageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862492/Jersey-sweden/Ligue1/DR3969-011-PHSFH001_nruoli.webp",
-    "price": 500,
+    "price": 499.90,
     "stock":  10,
     "category": "Other Leagues",
     "categoryImageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1716726745/Jersey-sweden/Logos/obikfulmck6ekjkrfjvk.png"
@@ -567,8 +629,9 @@
   {
     "id": "78711555-3486-4ab5-b93f-3aa895275eb8",
     "name": "Psg classic home kit",
+    "description" : "A modern football jersey designed for both performance and everyday wear. Made from lightweight, breathable fabric that keeps you cool throughout the game. With a sleek fit and sporty look, it's perfect for training, match days, or as part of your casual outfit.",
     "imageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862488/Jersey-sweden/Ligue1/0102_PSG_home-removebg_z2f6ys.webp",
-    "price": 500,
+    "price": 499.90,
     "stock":  10,
     "category": "Other Leagues",
     "categoryImageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1716726745/Jersey-sweden/Logos/obikfulmck6ekjkrfjvk.png"
@@ -576,8 +639,9 @@
   {
     "id": "f8345e78-a165-4daa-a2b7-88e7f4da97d2",
     "name": "Argentina home kit classic",
+    "description" : "A modern football jersey designed for both performance and everyday wear. Made from lightweight, breathable fabric that keeps you cool throughout the game. With a sleek fit and sporty look, it's perfect for training, match days, or as part of your casual outfit.",
     "imageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862574/Jersey-sweden/International/f459fb32-removebg-preview_nggyir.webp",
-    "price": 500,
+    "price": 499.90,
     "stock": 10,
     "category": "International",
     "categoryImageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862540/Jersey-sweden/Logos/FIFA-Logo-1977-1998_crytcp.png"
@@ -585,8 +649,9 @@
   {
     "id": "27310849-6772-4708-b2f6-492738f27f39",
     "name": "Argentina home kit",
+    "description" : "A modern football jersey designed for both performance and everyday wear. Made from lightweight, breathable fabric that keeps you cool throughout the game. With a sleek fit and sporty look, it's perfect for training, match days, or as part of your casual outfit.",
     "imageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862571/Jersey-sweden/International/Argentina_qtcwel.webp",
-    "price": 500,
+    "price": 499.90,
     "stock":  10,
     "category": "International",
     "categoryImageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862540/Jersey-sweden/Logos/FIFA-Logo-1977-1998_crytcp.png"
@@ -594,8 +659,9 @@
   {
     "id": "a4406c74-cc0e-4f5b-bbf6-5a52be024f04",
     "name": "Argentina classic home kit",
+    "description" : "A modern football jersey designed for both performance and everyday wear. Made from lightweight, breathable fabric that keeps you cool throughout the game. With a sleek fit and sporty look, it's perfect for training, match days, or as part of your casual outfit.",
     "imageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862567/Jersey-sweden/International/3e7ed23f-removebg-preview_wmhbua.webp",
-    "price": 500,
+    "price": 499.90,
     "stock":  10,
     "category": "International",
     "categoryImageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862540/Jersey-sweden/Logos/FIFA-Logo-1977-1998_crytcp.png"
@@ -603,8 +669,9 @@
   {
     "id": "d2cb6fdc-46a7-4a99-be11-755acc4e5855",
     "name": "Belgium home kit",
+    "description" : "A modern football jersey designed for both performance and everyday wear. Made from lightweight, breathable fabric that keeps you cool throughout the game. With a sleek fit and sporty look, it's perfect for training, match days, or as part of your casual outfit.",
     "imageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862583/Jersey-sweden/International/Untitled_design__10_-removebg_wrnbhx.webp",
-    "price": 500,
+    "price": 499.90,
     "stock":  10,
     "category": "International",
     "categoryImageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862540/Jersey-sweden/Logos/FIFA-Logo-1977-1998_crytcp.png"
@@ -612,8 +679,9 @@
   {
     "id": "a73a66d8-63a3-4c70-863d-c9d50d7abc06",
     "name": "Belgium away kit",
+    "description" : "A modern football jersey designed for both performance and everyday wear. Made from lightweight, breathable fabric that keeps you cool throughout the game. With a sleek fit and sporty look, it's perfect for training, match days, or as part of your casual outfit.",
     "imageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862580/Jersey-sweden/International/HE6637_1_APPAREL_Photography_FrontView_transparent_500x_ocm2qq.webp",
-    "price": 500,
+    "price": 499.90,
     "stock":  10,
     "category": "International",
     "categoryImageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862540/Jersey-sweden/Logos/FIFA-Logo-1977-1998_crytcp.png"
@@ -621,8 +689,9 @@
   {
     "id": "685c1188-2188-4e00-a3b4-a1bec98d94e7",
     "name": "Brazil home kit",
+    "description" : "A modern football jersey designed for both performance and everyday wear. Made from lightweight, breathable fabric that keeps you cool throughout the game. With a sleek fit and sporty look, it's perfect for training, match days, or as part of your casual outfit.",
     "imageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862573/Jersey-sweden/International/brasil2006-removebg-preview_r1jgo2.webp",
-    "price": 500,
+    "price": 499.90,
     "stock":  10,
     "category": "International",
     "categoryImageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862540/Jersey-sweden/Logos/FIFA-Logo-1977-1998_crytcp.png"
@@ -630,8 +699,9 @@
   {
     "id": "19536167-b141-43c7-9afa-f056af868000",
     "name": "Brazil home kit",
+    "description" : "A modern football jersey designed for both performance and everyday wear. Made from lightweight, breathable fabric that keeps you cool throughout the game. With a sleek fit and sporty look, it's perfect for training, match days, or as part of your casual outfit.",
     "imageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862572/Jersey-sweden/International/br2-removebg-preview_pynfef.webp",
-    "price": 500,
+    "price": 499.90,
     "stock":  10,
     "category": "International",
     "categoryImageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862540/Jersey-sweden/Logos/FIFA-Logo-1977-1998_crytcp.png"
@@ -639,8 +709,9 @@
   {
     "id": "8c62d01d-5efa-4fcc-9e4e-3bef2826a81c",
     "name": "Brazil away kit",
+    "description" : "A modern football jersey designed for both performance and everyday wear. Made from lightweight, breathable fabric that keeps you cool throughout the game. With a sleek fit and sporty look, it's perfect for training, match days, or as part of your casual outfit.",
     "imageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862560/Jersey-sweden/International/02af2a65cb870628-removebg-preview_n8zwtu.webp",
-    "price": 500,
+    "price": 499.90,
     "stock":  10,
     "category": "International",
     "categoryImageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862540/Jersey-sweden/Logos/FIFA-Logo-1977-1998_crytcp.png"
@@ -648,8 +719,9 @@
   {
     "id": "ac380751-a278-4ae5-9cdb-732b9961bee6",
     "name": "Brazil away kit",
+    "description" : "A modern football jersey designed for both performance and everyday wear. Made from lightweight, breathable fabric that keeps you cool throughout the game. With a sleek fit and sporty look, it's perfect for training, match days, or as part of your casual outfit.",
     "imageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862560/Jersey-sweden/International/00dfb33f-removebg-preview_sbtptf.webp",
-    "price": 500,
+    "price": 499.90,
     "stock":  10,
     "category": "International",
     "categoryImageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862540/Jersey-sweden/Logos/FIFA-Logo-1977-1998_crytcp.png"
@@ -657,8 +729,9 @@
   {
     "id": "fc8881ea-bf81-44f8-a825-6124cff8c13b",
     "name": "England home kit",
+    "description" : "A modern football jersey designed for both performance and everyday wear. Made from lightweight, breathable fabric that keeps you cool throughout the game. With a sleek fit and sporty look, it's perfect for training, match days, or as part of your casual outfit.",
     "imageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862563/Jersey-sweden/International/1712133861492357348_r3ylnr.png",
-    "price": 500,
+    "price": 499.90,
     "stock":  10,
     "category": "International",
     "categoryImageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862540/Jersey-sweden/Logos/FIFA-Logo-1977-1998_crytcp.png"
@@ -666,8 +739,9 @@
   {
     "id": "7e6264c1-1736-4ecb-ba47-cf562289646d",
     "name": "England away kit",
+    "description" : "A modern football jersey designed for both performance and everyday wear. Made from lightweight, breathable fabric that keeps you cool throughout the game. With a sleek fit and sporty look, it's perfect for training, match days, or as part of your casual outfit.",
     "imageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862562/Jersey-sweden/International/1713507358773145493_qxcdgl.png",
-    "price": 500,
+    "price": 499.90,
     "stock":  10,
     "category": "International",
     "categoryImageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862540/Jersey-sweden/Logos/FIFA-Logo-1977-1998_crytcp.png"
@@ -675,8 +749,9 @@
   {
     "id": "5a14003a-46ba-441c-8c1a-c6494e4c2428",
     "name": "Germany home kit",
+    "description" : "A modern football jersey designed for both performance and everyday wear. Made from lightweight, breathable fabric that keeps you cool throughout the game. With a sleek fit and sporty look, it's perfect for training, match days, or as part of your casual outfit.",
     "imageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862578/Jersey-sweden/International/ger-1-removebg-preview_h7r3er.webp",
-    "price": 500,
+    "price": 499.90,
     "stock":  10,
     "category": "International",
     "categoryImageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862540/Jersey-sweden/Logos/FIFA-Logo-1977-1998_crytcp.png"
@@ -684,8 +759,9 @@
   {
     "id": "62c1b93a-06fa-4c6d-9dea-f1644d06daf2",
     "name": "Germany away kit",
+    "description" : "A modern football jersey designed for both performance and everyday wear. Made from lightweight, breathable fabric that keeps you cool throughout the game. With a sleek fit and sporty look, it's perfect for training, match days, or as part of your casual outfit.",
     "imageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862579/Jersey-sweden/International/ger1-removebg-preview_mwsmjf.webp",
-    "price": 500,
+    "price": 499.90,
     "stock":  10,
     "category": "International",
     "categoryImageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862540/Jersey-sweden/Logos/FIFA-Logo-1977-1998_crytcp.png"
@@ -693,8 +769,9 @@
   {
     "id": "6ed69fda-51f7-4174-ab4f-478fd0b50ebc",
     "name": "Germany home kit",
+    "description" : "A modern football jersey designed for both performance and everyday wear. Made from lightweight, breathable fabric that keeps you cool throughout the game. With a sleek fit and sporty look, it's perfect for training, match days, or as part of your casual outfit.",
     "imageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862575/Jersey-sweden/International/file_xcmj7n.png",
-    "price": 500,
+    "price": 499.90,
     "stock":  10,
     "category": "International",
     "categoryImageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862540/Jersey-sweden/Logos/FIFA-Logo-1977-1998_crytcp.png"
@@ -702,8 +779,9 @@
   {
     "id": "2212eec7-ab31-4347-aad9-e8003b818084",
     "name": "France away kit classic",
+    "description" : "A modern football jersey designed for both performance and everyday wear. Made from lightweight, breathable fabric that keeps you cool throughout the game. With a sleek fit and sporty look, it's perfect for training, match days, or as part of your casual outfit.",
     "imageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862581/Jersey-sweden/International/image_750x_3cd74a1c-f190-4912-b344-7b6a01834ad0-_1_-removebg-preview_h3zv3o.webp",
-    "price": 500,
+    "price": 499.90,
     "stock":  10,
     "category": "International",
     "categoryImageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862540/Jersey-sweden/Logos/FIFA-Logo-1977-1998_crytcp.png"
@@ -711,8 +789,9 @@
   {
     "id": "1e64af93-1f9c-4530-80cf-520ae86f92b2",
     "name": "France home kit classic",
+    "description" : "A modern football jersey designed for both performance and everyday wear. Made from lightweight, breathable fabric that keeps you cool throughout the game. With a sleek fit and sporty look, it's perfect for training, match days, or as part of your casual outfit.",
     "imageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862577/Jersey-sweden/International/france_q8ocwt.webp",
-    "price": 500,
+    "price": 499.90,
     "stock":  10,
     "category": "International",
     "categoryImageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862540/Jersey-sweden/Logos/FIFA-Logo-1977-1998_crytcp.png"
@@ -720,8 +799,9 @@
   {
     "id": "3bcbde0b-7dde-45a3-a22e-44a989d9d33f",
     "name": "France away kit classic",
+    "description" : "A modern football jersey designed for both performance and everyday wear. Made from lightweight, breathable fabric that keeps you cool throughout the game. With a sleek fit and sporty look, it's perfect for training, match days, or as part of your casual outfit.",
     "imageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862576/Jersey-sweden/International/france-1998-away-kit-574363_shhwb7.webp",
-    "price": 500,
+    "price": 499.90,
     "stock":  10,
     "category": "International",
     "categoryImageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862540/Jersey-sweden/Logos/FIFA-Logo-1977-1998_crytcp.png"
@@ -729,8 +809,9 @@
   {
     "id": "012aa9d5-6386-41c8-964f-7c7c614acb5d",
     "name": "France home kit classic",
+    "description" : "A modern football jersey designed for both performance and everyday wear. Made from lightweight, breathable fabric that keeps you cool throughout the game. With a sleek fit and sporty look, it's perfect for training, match days, or as part of your casual outfit.",
     "imageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862569/Jersey-sweden/International/8aa675ad-scaled-removebg-preview_q0caeb.webp",
-    "price": 500,
+    "price": 499.90,
     "stock":  10,
     "category": "International",
     "categoryImageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862540/Jersey-sweden/Logos/FIFA-Logo-1977-1998_crytcp.png"
@@ -738,8 +819,9 @@
   {
     "id": "be406454-3541-4cf0-9e00-344b2910ed48",
     "name": "Japan fantasy kit",
+    "description" : "A modern football jersey designed for both performance and everyday wear. Made from lightweight, breathable fabric that keeps you cool throughout the game. With a sleek fit and sporty look, it's perfect for training, match days, or as part of your casual outfit.",
     "imageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862568/Jersey-sweden/International/6d99752aad4473ca-removebg-preview_nxg6ek.webp",
-    "price": 500,
+    "price": 499.90,
     "stock":  10,
     "category": "International",
     "categoryImageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862540/Jersey-sweden/Logos/FIFA-Logo-1977-1998_crytcp.png"
@@ -747,8 +829,9 @@
   {
     "id": "c3756941-512b-4f43-b6ac-1803381f8b55",
     "name": "Portugal home kit classic",
+    "description" : "A modern football jersey designed for both performance and everyday wear. Made from lightweight, breathable fabric that keeps you cool throughout the game. With a sleek fit and sporty look, it's perfect for training, match days, or as part of your casual outfit.",
     "imageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862570/Jersey-sweden/International/a94de429-removebg-preview_ffwtkp.webp",
-    "price": 500,
+    "price": 499.90,
     "stock":  10,
     "category": "International",
     "categoryImageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862540/Jersey-sweden/Logos/FIFA-Logo-1977-1998_crytcp.png"
@@ -756,8 +839,9 @@
   {
     "id": "9ae1c480-a117-40c5-a7ec-5042360ea336",
     "name": "Portugal home kit",
+    "description" : "A modern football jersey designed for both performance and everyday wear. Made from lightweight, breathable fabric that keeps you cool throughout the game. With a sleek fit and sporty look, it's perfect for training, match days, or as part of your casual outfit.",
     "imageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862565/Jersey-sweden/International/1713513425816425596_a8cebb.png",
-    "price": 500,
+    "price": 499.90,
     "stock":  10,
     "category": "International",
     "categoryImageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862540/Jersey-sweden/Logos/FIFA-Logo-1977-1998_crytcp.png"
@@ -765,8 +849,9 @@
   {
     "id": "a193aea7-55d6-4bb4-bc3c-22e5fd5bb015",
     "name": "Portugal away kit",
+    "description" : "A modern football jersey designed for both performance and everyday wear. Made from lightweight, breathable fabric that keeps you cool throughout the game. With a sleek fit and sporty look, it's perfect for training, match days, or as part of your casual outfit.",
     "imageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862566/Jersey-sweden/International/3171576808334af4f34_ziqjm6.png",
-    "price": 500,
+    "price": 499.90,
     "stock":  10,
     "category": "International",
     "categoryImageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862540/Jersey-sweden/Logos/FIFA-Logo-1977-1998_crytcp.png"
@@ -774,8 +859,9 @@
   {
     "id": "628f12c9-0722-439c-a7b2-5a2a11a87327",
     "name": "Spain home kit",
+    "description" : "A modern football jersey designed for both performance and everyday wear. Made from lightweight, breathable fabric that keeps you cool throughout the game. With a sleek fit and sporty look, it's perfect for training, match days, or as part of your casual outfit.",
     "imageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862582/Jersey-sweden/International/spain_1-removebg-preview_uyocch.webp",
-    "price": 500,
+    "price": 499.90,
     "stock":  10,
     "category": "International",
     "categoryImageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862540/Jersey-sweden/Logos/FIFA-Logo-1977-1998_crytcp.png"
@@ -783,8 +869,9 @@
   {
     "id": "01f32415-5283-499f-a112-54665411cccc",
     "name": "Uruguay home kit",
+    "description" : "A modern football jersey designed for both performance and everyday wear. Made from lightweight, breathable fabric that keeps you cool throughout the game. With a sleek fit and sporty look, it's perfect for training, match days, or as part of your casual outfit.",
     "imageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862584/Jersey-sweden/International/uraguay_dtnjup.webp",
-    "price": 500,
+    "price": 499.90,
     "stock":  10,
     "category": "International",
     "categoryImageUrl": "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862540/Jersey-sweden/Logos/FIFA-Logo-1977-1998_crytcp.png"
