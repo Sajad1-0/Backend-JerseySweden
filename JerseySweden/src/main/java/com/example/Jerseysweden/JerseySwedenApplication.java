@@ -1,4 +1,4 @@
-package com.example.JerseySweden;
+package com.example.Jerseysweden;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

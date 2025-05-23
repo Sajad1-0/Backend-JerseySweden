@@ -1,4 +1,4 @@
-package com.example.JerseySweden.model;
+package com.example.Jerseysweden.model;
 
 import lombok.Getter;
 import lombok.Setter;

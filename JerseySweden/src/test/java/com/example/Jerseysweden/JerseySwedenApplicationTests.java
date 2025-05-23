@@ -1,4 +1,4 @@
-package com.example.JerseySweden;
+package com.example.Jerseysweden;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

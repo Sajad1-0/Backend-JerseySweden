@@ -1,4 +1,4 @@
-package com.example.JerseySweden.model;
+package com.example.Jerseysweden.model;
 
 import java.time.LocalDateTime;
 import java.util.List;
