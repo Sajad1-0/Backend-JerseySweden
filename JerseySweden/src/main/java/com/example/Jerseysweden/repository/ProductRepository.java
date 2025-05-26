@@ -46,6 +46,14 @@ public class ProductRepository {
         return Optional.ofNullable(productMap.get(id));
     }
 
+
+    // find by league category
+    public List<Product> findByLeagueCategory(String category) {
+        return productMap.values().stream()
+                .filter(p -> p.getCategory() != null && p.getCategory().equalsIgnoreCase(category))
+                .toList();
+    }
+
     // skapa och uppdatera
     public Product save(Product product) {
         if (product.getId() == null || product.getId().isEmpty()) {

@@ -16,6 +16,7 @@ public class Product {
         private double price;
         private String imageUrl;
         private String category;
+        private String categoryImageUrl;
         private int stock;
 
 
@@ -27,6 +28,7 @@ public class Product {
             this.price = price;
             this.imageUrl = imageUrl;
             this.category = category;
+            this.categoryImageUrl = categoryImageUrl;
             this.stock = stock;
         }
 
