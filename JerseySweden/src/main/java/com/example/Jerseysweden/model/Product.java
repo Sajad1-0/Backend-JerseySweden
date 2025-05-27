@@ -1,5 +1,5 @@
 package com.example.Jerseysweden.model;
-
+import jakarta.validation.constraints.*;
 import lombok.Getter;
 import lombok.Setter;
 
@@ -11,13 +11,27 @@ import java.util.UUID;
 public class Product {
 
         private String id;
+
+        @NotNull(message = "Name is required")
+        @Size(min = 4, max = 50, message = "Name must be between 4 and 50 characters")
         private String name;
+
+        @Size(max = 500, message = "Description cannot exceed 500 characters")
         private String description;
-        private double price;
+
+        @NotNull(message = "Price is required")
+        @Min(value = 0, message = "Price must be positive")
+        private Double price;
+
+        @NotNull(message = "Image is required")
         private String imageUrl;
+
+        @NotBlank(message = "Category is required")
         private String category;
         private String categoryImageUrl;
-        private int stock;
+
+        @Min(value = 0, message = "Stock quantity cannot be negative")
+        private Integer stock;
 
 
         // konstruktor

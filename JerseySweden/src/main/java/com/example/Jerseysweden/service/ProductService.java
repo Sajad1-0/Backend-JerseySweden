@@ -3,8 +3,8 @@ package com.example.Jerseysweden.service;
 import com.example.Jerseysweden.dto.ProductUpdateDTO;
 import com.example.Jerseysweden.exception.ProductNotFoundException;
 import com.example.Jerseysweden.model.Product;
-import com.example.Jerseysweden.productValidator.ProductValidator;
 import com.example.Jerseysweden.repository.ProductRepository;
+import jakarta.validation.Valid;
 import org.springframework.stereotype.Service;
 
 import java.util.*;
@@ -42,8 +42,7 @@ public class ProductService {
     }
 
     // Create product with validation
-    public Product createProduct(Product product) throws IllegalAccessException {
-        ProductValidator.validate(product);
+    public Product createProduct(Product product) {
 
         if (product.getId() == null || product.getId().isEmpty()) {
             product.setId(UUID.randomUUID().toString());
@@ -61,13 +60,11 @@ public class ProductService {
     }
 
     // Update product
-    public Product updateProduct(String id, ProductUpdateDTO dto) throws IllegalAccessException {
+    public Product updateProduct(String id, ProductUpdateDTO dto) {
 
         Product existing = productRepository.findById(id).orElseThrow(
                 () -> new ProductNotFoundException("Product with id: " + id + " not found")
         );
-
-
 
 
         // Update fields

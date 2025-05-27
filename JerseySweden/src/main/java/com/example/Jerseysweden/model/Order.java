@@ -1,4 +1,5 @@
 package com.example.Jerseysweden.model;
+import jakarta.validation.constraints.*;
 
 import java.time.LocalDateTime;
 import java.util.List;
@@ -7,9 +8,18 @@ import java.util.UUID;
 
 public class Order {
     private String id;
+
+    @NotNull(message = "Customer info is required")
     private CustomerInfo customerInfo;
+
+    @NotNull(message = "You must at least list a product")
+    @Min(value = 1, message = "It must be at least 1 product listed")
     private List<OrderItem> items;
-    private double totalAmount;
+
+    @NotNull(message = "Total amount must be positive")
+    @Min(value = 0)
+    private Double totalAmount;
+
     private LocalDateTime orderDate;
 
     public Order(CustomerInfo customerInfo, List<OrderItem> items, double totalAmount, LocalDateTime orderDate) {

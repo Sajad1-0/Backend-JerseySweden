@@ -32,7 +32,7 @@ public class ProductController {
 
     // create product
     @PostMapping
-    public ResponseEntity<Product> createProduct(@RequestBody Product product) throws IllegalAccessException {
+    public ResponseEntity<Product> createProduct(@Valid @RequestBody Product product) throws IllegalAccessException {
         Product created = productService.createProduct(product);
 
         return ResponseEntity.status(201).body(created);
