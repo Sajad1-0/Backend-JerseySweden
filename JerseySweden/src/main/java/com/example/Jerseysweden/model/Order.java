@@ -13,7 +13,7 @@ public class Order {
     private CustomerInfo customerInfo;
 
     @NotNull(message = "You must at least list a product")
-    @Min(value = 1, message = "It must be at least 1 product listed")
+    @Min(value = 1, message = "It must include at least 1 product listed")
     private List<OrderItem> items;
 
     @NotNull(message = "Total amount must be positive")
