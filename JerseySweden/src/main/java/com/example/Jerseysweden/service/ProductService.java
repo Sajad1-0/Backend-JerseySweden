@@ -1,10 +1,13 @@
 package com.example.Jerseysweden.service;
 
+import com.example.Jerseysweden.dto.CreateProductDTO;
 import com.example.Jerseysweden.dto.ProductUpdateDTO;
 import com.example.Jerseysweden.exception.ProductNotFoundException;
+import com.example.Jerseysweden.mapper.ProductMapper;
+import com.example.Jerseysweden.model.Category;
 import com.example.Jerseysweden.model.Product;
 import com.example.Jerseysweden.repository.ProductRepository;
-import jakarta.validation.Valid;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import java.util.*;
@@ -12,9 +15,14 @@ import java.util.*;
 @Service
 public class ProductService {
     private final ProductRepository productRepository;
+    private final CategoryService categoryService;
 
-    public ProductService(ProductRepository productRepository) {
+    @Autowired
+    private ProductMapper productMapper;
+
+    public ProductService(ProductRepository productRepository, CategoryService categoryService) {
         this.productRepository = productRepository;
+        this.categoryService = categoryService;
     }
 
 
@@ -42,10 +50,19 @@ public class ProductService {
     }
 
     // Create product with validation
-    public Product createProduct(Product product) {
+    public Product createProduct(CreateProductDTO dto) {
+
+        Product product = productMapper.toEntity(dto);
 
         if (product.getId() == null || product.getId().isEmpty()) {
             product.setId(UUID.randomUUID().toString());
+        }
+
+        if (product.getCategory() != null) {
+            Category category = categoryService.getLeagueByCategoryName(product.getCategory());
+            if (category != null) {
+                product.setCategoryImageUrl(category.getImageUrl());
+            }
         }
 
         return productRepository.save(product);

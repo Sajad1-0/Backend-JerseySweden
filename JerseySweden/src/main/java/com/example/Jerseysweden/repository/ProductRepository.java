@@ -1,10 +1,12 @@
 package com.example.Jerseysweden.repository;
 
 
+import com.example.Jerseysweden.dto.CreateProductDTO;
 import com.example.Jerseysweden.model.Product;
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import jakarta.annotation.PostConstruct;
+import jakarta.validation.Valid;
 import org.springframework.stereotype.Component;
 
 import java.io.InputStream;

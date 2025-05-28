@@ -1,5 +1,6 @@
 package com.example.Jerseysweden.controller;
 
+import com.example.Jerseysweden.dto.CreateProductDTO;
 import com.example.Jerseysweden.dto.ProductUpdateDTO;
 import com.example.Jerseysweden.service.ProductService;
 import com.example.Jerseysweden.model.Product;
@@ -14,6 +15,7 @@ import java.util.List;
 public class ProductController {
 
     private final ProductService productService;
+
 
     public ProductController(ProductService productService) {
         this.productService = productService;
@@ -32,8 +34,8 @@ public class ProductController {
 
     // create product
     @PostMapping
-    public ResponseEntity<Product> createProduct(@Valid @RequestBody Product product) throws IllegalAccessException {
-        Product created = productService.createProduct(product);
+    public ResponseEntity<Product> createProduct(@Valid @RequestBody CreateProductDTO dto) {
+        Product created = productService.createProduct(dto);
 
         return ResponseEntity.status(201).body(created);
     }
@@ -57,7 +59,7 @@ public class ProductController {
     }
 
     // Filteer products by league category
-    @GetMapping("/league/{category}")
+    @GetMapping("/category/{category}")
     public ResponseEntity<List<Product>> getProductsByLeagueCategory(@PathVariable String category) {
         return ResponseEntity.ok(productService.getProductByLeagueCategory(category));
     }
