@@ -68,7 +68,7 @@ You can use Postman to test the API endpoints. Below are example requests to imp
 
 ## 🔹 Create a Product
 Method: POST
-URL: http://localhost:8080/api/products
+- URL: http://localhost:8085/products
 Headers:
 
 makefile
@@ -86,7 +86,7 @@ Body (raw, JSON):
 
 ##🔸 Create an Order
 Method: POST
-URL: http://localhost:8080/api/orders
+- URL: http://localhost:8085/api/orders
 Headers:
 
 makefile
