@@ -14,12 +14,19 @@ public class CustomerInfo {
     @NotBlank(message = "Address is required and can't be empty")
     private String address;
 
+    @NotBlank(message = "Email can't be empty")
     @Email(message = "Email is required")
     private String email;
+
+    public CustomerInfo() {
+        // Default constructor för Jackson
+        // För deserialisering
+    }
 
     public CustomerInfo(String name, String address, String email) {
         this.name = name;
         this.address = address;
         this.email = email;
     }
+
 }

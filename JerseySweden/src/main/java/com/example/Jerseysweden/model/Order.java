@@ -22,6 +22,10 @@ public class Order {
 
     private LocalDateTime orderDate;
 
+    public Order() {
+        // Defualt constructor for Jackson
+    }
+
     public Order(CustomerInfo customerInfo, List<OrderItem> items, double totalAmount, LocalDateTime orderDate) {
         this.id = UUID.randomUUID().toString();
         this.customerInfo = customerInfo;

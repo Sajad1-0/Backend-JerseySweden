@@ -19,11 +19,17 @@ public class OrderItem {
     @Min(value = 0)
     private double priceAtPurchase;
 
+    public OrderItem() {
+        // Default constructor for Jackson
+        // To deserializer
+    }
+
     // Konstruktor
     public OrderItem(String productId, int quantity, double priceAtPurchase) {
         this.productId = productId;
         this.quantity = quantity;
         this.priceAtPurchase = priceAtPurchase;
     }
+
 
 }
