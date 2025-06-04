@@ -10,12 +10,12 @@ This is a Spring Boot backend for **JerseySweden** – a football jersey webshop
 - Git
 
 ### Clone and Run
-```bash
+
 git clone https://github.com/your-username/jerseysweden-backend.git
 cd jerseysweden-backend
 ./mvnw spring-boot:run
 
-The application will start on http://localhost:8080.
+The application will start on http://localhost:8085.
 
 # 📦 API Documentation
 ## 🔹 Products
