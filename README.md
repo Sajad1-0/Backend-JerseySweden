@@ -10,16 +10,18 @@ This is a Spring Boot backend for **JerseySweden** – a football jersey webshop
 - Git
 
 ### Clone and Run
-
+```bash
 git clone https://github.com/your-username/jerseysweden-backend.git
 cd jerseysweden-backend
 ./mvnw spring-boot:run
 
 The application will start on http://localhost:8085.
+```
 
 # 📦 API Documentation
 ## 🔹 Products
 ### ✅ Create a Product
+``` bash
 POST /products
 {
   "name": "Arsenal Home Shirt",
@@ -30,6 +32,7 @@ POST /products
   "categoryImageUrl" : "http:Primiersleague...",
   "stock": 10
 }
+```
 
 ### 🔍 Get All Products
 GET /products
@@ -39,6 +42,8 @@ GET /products/category/{category}
 
 ## 🔸 Orders
 ### ✅ Create an Order
+
+``` bash
 POST /orders
 {
    "customerInfo": {
@@ -62,6 +67,7 @@ Response:
   "orderId": "1001",
   "message": "Order placed Successfully"
 }
+```
 
 # ✅ Testing Instructions (Postman)
 You can use Postman to test the API endpoints. Below are example requests to import manually:
@@ -69,11 +75,11 @@ You can use Postman to test the API endpoints. Below are example requests to imp
 ## 🔹 Create a Product
 Method: POST
 - URL: http://localhost:8085/products
-Headers:
 
-makefile
+Headers:
 Key: Content-Type
 Value: application/json
+``` bash 
 - Body (raw, JSON):
 {
   "name": "Real Madrid Shirt",
@@ -83,17 +89,17 @@ Value: application/json
   "category": "La Liga",
   "stock": 15
 }
+```
 
 ##🔸 Create an Order
 Method: POST
 - URL: http://localhost:8085/api/orders
 Headers:
-
-makefile
 Key: Content-Type
 Value: application/json
-- Body (raw, JSON):
 
+``` bash
+- Body (raw, JSON):
 {
   "customerInfo": {
     "name": "Anna Svensson",
@@ -109,6 +115,8 @@ Value: application/json
       }
   ],
 }
+
+```
 
 # 🧪 Unit Tests
 Unit tests are located in:
