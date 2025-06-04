@@ -74,7 +74,7 @@ Headers:
 makefile
 Key: Content-Type
 Value: application/json
-Body (raw, JSON):
+- Body (raw, JSON):
 {
   "name": "Real Madrid Shirt",
   "description": "Home shirt 2024",
@@ -92,7 +92,7 @@ Headers:
 makefile
 Key: Content-Type
 Value: application/json
-Body (raw, JSON):
+- Body (raw, JSON):
 
 {
   "customerInfo": {
@@ -123,5 +123,5 @@ MIT License. This project was developed as part of a school assignment and is fr
 ---
 
 Let me know if you'd like to add Swagger/OpenAPI instructions or adjust anything for Heroku, Docker, or deployment platforms.
-Contact me: Sajjadqaderi00@gmail.com
+- Contact me: Sajjadqaderi00@gmail.com
 
