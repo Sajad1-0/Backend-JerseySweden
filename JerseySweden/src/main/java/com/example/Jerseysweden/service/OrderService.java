@@ -20,7 +20,7 @@ public class OrderService {
     private final ProductRepository productRepository;
     private final Map<String, Order> orderStorage = new HashMap<>();
     @Autowired
-    private OrderExportImport orderExportImport;
+    public OrderExportImport orderExportImport;
 
     public OrderService(ProductRepository productRepository) {
         this.productRepository = productRepository;
