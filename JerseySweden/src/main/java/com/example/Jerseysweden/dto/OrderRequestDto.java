@@ -18,4 +18,9 @@ public class OrderRequestDto {
     @Valid
     private List<OrderItem> items;
 
+    public OrderRequestDto(CustomerInfo customerInfo, List<OrderItem> items) {
+        this.customerInfo = customerInfo;
+        this.items = items;
+    }
+
 }
