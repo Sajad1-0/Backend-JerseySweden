@@ -1,14 +1,14 @@
 package com.example.Jerseysweden.repository;
 
 
-import com.example.Jerseysweden.dto.CreateProductDTO;
 import com.example.Jerseysweden.model.Product;
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import jakarta.annotation.PostConstruct;
-import jakarta.validation.Valid;
 import org.springframework.stereotype.Component;
 
+import java.io.File;
+import java.io.IOException;
 import java.io.InputStream;
 import java.util.HashMap;
 import java.util.*;
@@ -39,6 +39,15 @@ public class ProductRepository {
 
     }
 
+    public void exportProductToJson(String filename) {
+        try {
+            objectMapper.writeValue(new File("src/main/resources/" + filename), findAll());
+            System.out.println("Produkter exporterade till " + filename);
+        } catch (IOException e) {
+            System.err.println("Kunde inte exportera produkter: " + e.getMessage());
+        }
+    }
+
     public List<Product> findAll() {
         return new ArrayList<>(productMap.values());
     }
@@ -62,6 +71,7 @@ public class ProductRepository {
             product.setId(UUID.randomUUID().toString());
         }
         productMap.put(product.getId(), product);
+        exportProductToJson("products.json");
         return product;
     }
 
