@@ -1,4 +1,4 @@
-package com.example.Jerseysweden.service;
+package com.example.Jerseysweden.repository;
 
 import com.example.Jerseysweden.model.Order;
 import com.fasterxml.jackson.core.type.TypeReference;
@@ -13,11 +13,11 @@ import java.util.Collection;
 import java.util.List;
 
 @Service
-public class OrderExportImport {
+public class OrderRepository {
 
     private final ObjectMapper mapper;
 
-    public OrderExportImport() {
+    public OrderRepository() {
         this.mapper = new ObjectMapper();
         mapper.registerModule(new JavaTimeModule());
         mapper.disable(SerializationFeature.WRITE_DATES_AS_TIMESTAMPS);

@@ -7,7 +7,7 @@ import com.example.Jerseysweden.model.CustomerInfo;
 import com.example.Jerseysweden.model.OrderItem;
 import com.example.Jerseysweden.model.Product;
 import com.example.Jerseysweden.repository.ProductRepository;
-import com.example.Jerseysweden.service.OrderExportImport;
+import com.example.Jerseysweden.repository.OrderRepository;
 import com.example.Jerseysweden.service.OrderService;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
@@ -20,15 +20,15 @@ import static org.mockito.Mockito.*;
 public class OrderServiceTest {
 
     private ProductRepository productRepository;
-    private OrderExportImport orderExportImport;
+    private OrderRepository orderRepository;
     private OrderService orderService;
 
     @BeforeEach
     void setUp() {
         productRepository = mock(ProductRepository.class);
-        orderExportImport = mock(OrderExportImport.class);
+        orderRepository = mock(OrderRepository.class);
         orderService = new OrderService(productRepository);
-        orderService.orderExportImport = orderExportImport;
+        orderService.orderRepository = orderRepository;
     }
 
     @Test

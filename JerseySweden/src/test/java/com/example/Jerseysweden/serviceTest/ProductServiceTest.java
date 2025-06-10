@@ -6,7 +6,7 @@ import com.example.Jerseysweden.exception.ProductNotFoundException;
 import com.example.Jerseysweden.mapper.ProductMapper;
 import com.example.Jerseysweden.model.Product;
 import com.example.Jerseysweden.repository.ProductRepository;
-import com.example.Jerseysweden.service.CategoryService;
+import com.example.Jerseysweden.repository.CategoryRepository;
 import com.example.Jerseysweden.service.ProductService;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
@@ -19,7 +19,7 @@ import static org.junit.jupiter.api.Assertions.*;
 public class ProductServiceTest {
 
     private ProductRepository productRepository;
-    private CategoryService categoryService;
+    private CategoryRepository categoryRepository;
     private ProductMapper productMapper;
     private ProductService productService;
 
@@ -27,9 +27,9 @@ public class ProductServiceTest {
     @BeforeEach
     void setUp() {
         productRepository = mock(ProductRepository.class);
-        categoryService = mock(CategoryService.class);
+        categoryRepository = mock(CategoryRepository.class);
         productMapper = mock(ProductMapper.class);
-        productService = new ProductService(productRepository, categoryService);
+        productService = new ProductService(productRepository, categoryRepository);
         productService.productMapper = productMapper;
     }
 

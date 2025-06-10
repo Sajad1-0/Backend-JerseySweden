@@ -1,4 +1,4 @@
-package com.example.Jerseysweden.service;
+package com.example.Jerseysweden.repository;
 
 
 import com.example.Jerseysweden.model.Category;
@@ -6,10 +6,10 @@ import org.springframework.stereotype.Service;
 import java.util.*;
 
 @Service
-public class CategoryService {
+public class CategoryRepository {
     private final Map<String, Category> categories = new HashMap<>();
 
-    public CategoryService() {
+    public CategoryRepository() {
         categories.put("La Liga", new Category("La Liga", "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862544/Jersey-sweden/Logos/Spanish-La-Liga-Logo_knfb1q.png"));
         categories.put("Primier League", new Category("Primier League", "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862543/Jersey-sweden/Logos/Premier-League-Logo_rty5q3.png"));
         categories.put("Serie A", new Category("Serie A", "https://res.cloudinary.com/dv9izlvzw/image/upload/v1715862541/Jersey-sweden/Logos/Italian-Serie-A-Logo_bc7xqt.png"));

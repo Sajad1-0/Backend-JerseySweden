@@ -3,6 +3,7 @@ import com.example.Jerseysweden.dto.OrderRequestDto;
 import com.example.Jerseysweden.dto.OrderResponseDTO;
 import com.example.Jerseysweden.exception.*;
 import com.example.Jerseysweden.model.*;
+import com.example.Jerseysweden.repository.OrderRepository;
 import com.example.Jerseysweden.repository.ProductRepository;
 import jakarta.annotation.PostConstruct;
 import jakarta.annotation.PreDestroy;
@@ -20,7 +21,7 @@ public class OrderService {
     private final ProductRepository productRepository;
     private final Map<String, Order> orderStorage = new HashMap<>();
     @Autowired
-    public OrderExportImport orderExportImport;
+    public OrderRepository orderRepository;
 
     public OrderService(ProductRepository productRepository) {
         this.productRepository = productRepository;
@@ -59,7 +60,7 @@ public class OrderService {
         );
 
         orderStorage.put(order.getId(), order);
-        orderExportImport.exportOrders(new ArrayList<>(orderStorage.values()), "orders.json");
+        orderRepository.exportOrders(new ArrayList<>(orderStorage.values()), "orders.json");
 
         return new OrderResponseDTO(order.getId(), "Order placed Successfully");
 
@@ -103,7 +104,7 @@ public class OrderService {
    // Läser in order.json vid start
     @PostConstruct
     public void importAllOrderFromFile() {
-        List<Order> importedOrders = orderExportImport.importOrders("orders.json");
+        List<Order> importedOrders = orderRepository.importOrders("orders.json");
 
         for (Order order : importedOrders) {
             orderStorage.put(order.getId(), order);
@@ -114,6 +115,6 @@ public class OrderService {
     // Spara orders.json när appen stängs
     @PreDestroy
     public void exportOrdersToFile() {
-        orderExportImport.exportOrders(orderStorage.values(), "orders.json");
+        orderRepository.exportOrders(orderStorage.values(), "orders.json");
     }
 }

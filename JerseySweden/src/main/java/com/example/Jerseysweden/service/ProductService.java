@@ -6,6 +6,7 @@ import com.example.Jerseysweden.exception.ProductNotFoundException;
 import com.example.Jerseysweden.mapper.ProductMapper;
 import com.example.Jerseysweden.model.Category;
 import com.example.Jerseysweden.model.Product;
+import com.example.Jerseysweden.repository.CategoryRepository;
 import com.example.Jerseysweden.repository.ProductRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
@@ -15,14 +16,14 @@ import java.util.*;
 @Service
 public class ProductService {
     private final ProductRepository productRepository;
-    private final CategoryService categoryService;
+    private final CategoryRepository categoryRepository;
 
     @Autowired
     public ProductMapper productMapper;
 
-    public ProductService(ProductRepository productRepository, CategoryService categoryService) {
+    public ProductService(ProductRepository productRepository, CategoryRepository categoryRepository) {
         this.productRepository = productRepository;
-        this.categoryService = categoryService;
+        this.categoryRepository = categoryRepository;
     }
 
 
@@ -59,7 +60,7 @@ public class ProductService {
         }
 
         if (product.getCategory() != null) {
-            Category category = categoryService.getLeagueByCategoryName(product.getCategory());
+            Category category = categoryRepository.getLeagueByCategoryName(product.getCategory());
             if (category != null) {
                 product.setCategoryImageUrl(category.getImageUrl());
             }
