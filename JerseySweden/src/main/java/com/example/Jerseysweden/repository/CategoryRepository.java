@@ -2,10 +2,10 @@ package com.example.Jerseysweden.repository;
 
 
 import com.example.Jerseysweden.model.Category;
-import org.springframework.stereotype.Service;
+import org.springframework.stereotype.Component;
 import java.util.*;
 
-@Service
+@Component
 public class CategoryRepository {
     private final Map<String, Category> categories = new HashMap<>();
 
